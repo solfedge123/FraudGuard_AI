@@ -11,9 +11,6 @@ Built with Python, XGBoost, SHAP, and Gradio, **FraudGuard** combines supervised
  **Explainable AI (XAI)**  SHAP-powered waterfall plots show *exactly why* a transaction was flagged
  **Dual-Model Intelligence** Combines XGBoost (supervised) + Isolation Forest (anomaly detection)
  **Production-Ready** Modular code, model persistence, and Gradio UI for instant interaction
- **Hiring-Ready Project**  Demonstrates skills in ML, engineering, and business impact
-
- *This isn't just a notebook — it's a deployable fraud detection service.*
 
 ---
 
